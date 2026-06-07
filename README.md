@@ -61,8 +61,6 @@ Designed SQL-driven KPI frameworks and board-level reporting infrastructure.
 
 ---
 
-## 🛠️ Tech Stack
-
 <!---
 swastikt1/swastikt1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
